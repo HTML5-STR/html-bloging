@@ -1,0 +1,20 @@
+.dd-background {
+  width:100%;
+  max-width: 780px;
+  margin: 50px auto;
+  
+}
+
+p,dt {
+    font-weight: bold;
+}
+
+dl,dd {
+    font-size: 1.2em;
+    padding:10px;
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
