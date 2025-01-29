@@ -1,0 +1,36 @@
+.logo {
+    background: left / cover url('../img/anime.jpg');
+    display: flex;
+    height: 300px;
+    align-items: center;
+    align-items: center;
+    justify-content: center;
+    font: 20px bold calc(1em + 3 * (100vw - 120px));
+    color:blanchedalmond;
+    text-overflow: unset;
+    text-shadow: #000 2px 2px 0.2rem;
+    text-decoration: none;
+}
+
+header > h1 {
+    margin: 0 0 10;
+}
+
+header > time {
+    font: italic 0.7rem sans-serif;
+}
+
+footer {
+    display: block;
+    border-top: 1px solid green;
+}
+
+footer > h1 {
+    font-size: 18px;
+}
+
+footer > p {
+   font: italic 0.9em sans-serif;
+   color: gray;
+}
+
